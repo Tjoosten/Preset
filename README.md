@@ -1,1 +1,1 @@
-# Preset packege vopor Laravel Framework 5.7 en hoger 
+# Preset package voor Laravel Framework 5.7 en hoger 
